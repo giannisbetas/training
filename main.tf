@@ -24,6 +24,8 @@ provider "aws" {
   region     = "${var.aws_region}"
 }
 
+test...
+
 terraform {
   backend "atlas" {
     name = "giannis/training"
