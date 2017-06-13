@@ -1,9 +1,9 @@
 #####  DNSIMPLE  #####
 
-variable "dnsimple_account" {}
-variable "dnsimple_token" {}
+# variable "dnsimple_account" {}
+# variable "dnsimple_token" {}
 
-variable "dnsimple_domain" {}
+# variable "dnsimple_domain" {}
 
 
 #####  AWS  #####
